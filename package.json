@@ -8,6 +8,9 @@
     "npm-programmatic": "0.0.12",
     "winston": "^3.2.1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/berkoztrk/npm_project_generator.git"
