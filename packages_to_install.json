@@ -1,0 +1,4 @@
+{
+  "dev" : ["nodemon","@babel/core", "@babel/node", "@babel/preset-env","eslint"],
+  "project" : ["lodash"]
+}
